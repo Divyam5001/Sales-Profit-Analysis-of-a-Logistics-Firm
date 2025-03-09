@@ -1,4 +1,4 @@
-# Sales-Profit-Analysis-of-a-Logistics-Firm
+# Sales-Profit-Analysis-of-a-Logistics-Firm using Advanced Excel
 This project provides an in-depth analysis of a logistics firm's sales, revenue, and profitability.
 
 This project was built using Advanced Excel and Pivot Tables to get a clear picture of how a logistics firm is performing. 
